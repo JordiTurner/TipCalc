@@ -36,7 +36,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had difficulty adding NSUserDefaults, NSNumberFormatter, and NSDate, as the documentation I found online was hard to understand at first. Also, my first attempt unexplicably went awry, so I had to redo the app. 
 
 ## License
 
