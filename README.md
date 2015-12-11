@@ -4,7 +4,7 @@ TipCalc is a tip calculator application for iOS.
 
 Submitted by: Jordi E. Turner
 
-Time spent: 8 hours spent in total
+Time spent: 10-8 hours spent in total
 
 ## User Stories
 
@@ -22,7 +22,6 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [X] User can choose a custom tip percentage in settings.
-- [X] User can choose the default tip percentage in settings.
 - [X] User can choose the app's theme to be light or dark.
 - [X] User can enter the number of people to split the tab with.
 
